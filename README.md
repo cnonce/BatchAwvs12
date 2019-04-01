@@ -9,7 +9,8 @@
 
     usage:
         python awvs.py
-        
+    
+    Options:    
     [1] - Upload tasks
     [2] - Show Targets
     [3] - Delete Targets
@@ -19,4 +20,5 @@
 
 # Usage
   1.Add Scanning Tasks to urls.txt
+  
   2.python awvs.py

@@ -164,6 +164,7 @@ class Awvs(object):
 if __name__=='__main__':
 
     command='''
+    Options: 
     [1] - Upload tasks
     [2] - Show Targets
     [3] - Delete Targets
